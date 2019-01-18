@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C Source File">
+<includepath workspace_path="true">/hello_world/build/include</includepath>
+<includepath>${IDF_LIB_PATH}/esp32/include</includepath>
+<includepath>${IDF_LIB_PATH}/newlib/include</includepath>
+<includepath>${IDF_LIB_PATH}/freertos/include</includepath>
+<includepath>${IDF_LIB_PATH}/nvs_flash/include</includepath>
+<includepath>${IDF_LIB_PATH}/driver/include</includepath>
+<includepath>${IDF_LIB_PATH}/log/include</includepath>
+<includepath>${IDF_LIB_PATH}/spi_flash/include</includepath>
+<includepath>${IDF_LIB_PATH}/spiffs/include</includepath>
+<includepath>${IDF_LIB_PATH}/wpa_supplicant/include</includepath>
+<includepath>${IDF_LIB_PATH}/esp_adc_cal/include</includepath>
+<includepath>${IDF_LIB_PATH}/esp_http_client/include</includepath>
+<includepath>${IDF_LIB_PATH}/esp_http_server/include</includepath>
+<includepath>${IDF_LIB_PATH}/esp_https_server/include</includepath>
+<includepath>${IDF_LIB_PATH}/ethernet/include</includepath>
+<includepath>${IDF_LIB_PATH}/mqtt/esp-mqtt/include</includepath>
+<includepath>${IDF_LIB_PATH}/pthread/include</includepath>
+<includepath>${IDF_LIB_PATH}/xtensa-debug-module/include</includepath>
+<includepath>${IDF_LIB_PATH}/soc/include/soc</includepath>
+<includepath>${IDF_LIB_PATH}/soc/esp32/include/soc</includepath>
+
+</language>
+<language name="C++ Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C Source File">
+
+</language>
+<language name="C++ Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+</cdtprojectproperties>
