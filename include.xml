@@ -14,10 +14,10 @@
 <includepath>${IDF_LIB_PATH}/wpa_supplicant/include</includepath>
 <includepath>${IDF_LIB_PATH}/esp_adc_cal/include</includepath>
 <includepath>${IDF_LIB_PATH}/esp_http_client/include</includepath>
-<includepath>${IDF_LIB_PATH}/esp_http_server/include</includepath>
-<includepath>${IDF_LIB_PATH}/esp_https_server/include</includepath>
+<!---includepath>${IDF_LIB_PATH}/esp_http_server/include</includepath--->
+<!---includepath>${IDF_LIB_PATH}/esp_https_server/include</includepath--->
 <includepath>${IDF_LIB_PATH}/ethernet/include</includepath>
-<includepath>${IDF_LIB_PATH}/mqtt/esp-mqtt/include</includepath>
+<!---includepath>${IDF_LIB_PATH}/mqtt/esp-mqtt/include</includepath--->
 <includepath>${IDF_LIB_PATH}/pthread/include</includepath>
 <includepath>${IDF_LIB_PATH}/xtensa-debug-module/include</includepath>
 <includepath>${IDF_LIB_PATH}/soc/include/soc</includepath>
